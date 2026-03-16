@@ -1,0 +1,14 @@
+{
+  "env": {
+    "ANTHROPIC_AUTH_TOKEN": "24267543cbe44fbf9e899b39bef33fef.lRSUUnVDiHoeRwOn",
+    "ANTHROPIC_BASE_URL": "https://open.bigmodel.cn/api/anthropic",
+    "ANTHROPIC_DEFAULT_HAIKU_MODEL": "glm-5",
+    "ANTHROPIC_DEFAULT_OPUS_MODEL": "glm-5",
+    "ANTHROPIC_DEFAULT_SONNET_MODEL": "glm-5",
+    "ANTHROPIC_MODEL": "glm-5",
+    "ANTHROPIC_DISABLE_TELEMETRY": "1"
+  },
+  "includeCoAuthoredBy": false,
+  "language": "中文",
+  "alwaysThinkingEnabled": true
+}

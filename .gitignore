@@ -1,0 +1,16 @@
+# 忽略临时/缓存/敏感文件
+.DS_Store
+history.jsonl
+debug/
+cache/
+file-history/
+session-env/
+shell-snapshots/
+stats-cache.json
+telemetry/
+todos/
+plans/
+tasks/
+projects/
+ide/
+backups/

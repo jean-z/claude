@@ -1,0 +1,18 @@
+{
+  "zai-coding-plugins": {
+    "source": {
+      "source": "directory",
+      "path": "/Users/Zhuanz/.npm/_npx/2f024689b4d0d3b0/node_modules/@z_ai/coding-helper/zai-coding-plugins"
+    },
+    "installLocation": "/Users/Zhuanz/.npm/_npx/2f024689b4d0d3b0/node_modules/@z_ai/coding-helper/zai-coding-plugins",
+    "lastUpdated": "2026-02-13T03:14:24.890Z"
+  },
+  "claude-plugins-official": {
+    "source": {
+      "source": "github",
+      "repo": "anthropics/claude-plugins-official"
+    },
+    "installLocation": "/Users/Zhuanz/.claude/plugins/marketplaces/claude-plugins-official",
+    "lastUpdated": "2026-03-10T08:54:03.664Z"
+  }
+}
