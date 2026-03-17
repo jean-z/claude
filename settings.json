@@ -10,5 +10,30 @@
   },
   "includeCoAuthoredBy": false,
   "language": "中文",
-  "alwaysThinkingEnabled": true
+  "alwaysThinkingEnabled": true,
+  "skipDangerousModePermissionPrompt": true,
+  "hooks": {
+    "PreToolUse": [
+      {
+        "matcher": "*",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "~/.claude/skills/continuous-learning-v2/hooks/observe.sh"
+          }
+        ]
+      }
+    ],
+    "PostToolUse": [
+      {
+        "matcher": "*",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "~/.claude/skills/continuous-learning-v2/hooks/observe.sh"
+          }
+        ]
+      }
+    ]
+  }
 }
