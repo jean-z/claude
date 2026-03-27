@@ -5,6 +5,70 @@
     "root": "/Users/Zhuanz/React/biz-shop-taro",
     "remote": "https://gitlab.yofoto.cn/h5/biz-shop-taro.git",
     "created_at": "2026-03-17T00:55:52.701539Z",
-    "last_seen": "2026-03-17T01:23:00.697901Z"
+    "last_seen": "2026-03-19T16:17:09.905848Z"
+  },
+  "1ba853475ea9": {
+    "id": "1ba853475ea9",
+    "name": "biz-micro-services-ui",
+    "root": "/Users/Zhuanz/React/biz-micro-services-ui",
+    "remote": "https://gitlab.yofoto.cn/h5/biz-micro-services-ui.git",
+    "created_at": "2026-03-17T02:36:21.143558Z",
+    "last_seen": "2026-03-25T05:33:54.437278Z"
+  },
+  "1cfea8d13f1f": {
+    "id": "1cfea8d13f1f",
+    "name": "biz-b2c-web-h5",
+    "root": "/Users/Zhuanz/React/biz-b2c-web-h5",
+    "remote": "https://gitlab.yofoto.cn/h5/biz-b2c-web-h5.git",
+    "created_at": "2026-03-17T06:26:27.809136Z",
+    "last_seen": "2026-03-23T09:05:07.020853Z"
+  },
+  "821faa20e74a": {
+    "id": "821faa20e74a",
+    "name": "biz-shopping-mobile",
+    "root": "/Users/Zhuanz/React/biz-shopping-mobile",
+    "remote": "https://gitlab.yofoto.cn/h5/biz-shopping-mobile.git",
+    "created_at": "2026-03-19T02:53:30.127775Z",
+    "last_seen": "2026-03-27T02:00:12.919838Z"
+  },
+  "d332cb8f4fa1": {
+    "id": "d332cb8f4fa1",
+    "name": "React",
+    "root": "/Users/Zhuanz/React",
+    "remote": "",
+    "created_at": "2026-03-19T16:19:28.141244Z",
+    "last_seen": "2026-03-20T11:40:15.913723Z"
+  },
+  "cdf953fc2937": {
+    "id": "cdf953fc2937",
+    "name": "biz-shopping-mobile-master",
+    "root": "/Users/Zhuanz/React/biz-shopping-mobile-master",
+    "remote": "",
+    "created_at": "2026-03-20T01:13:42.694807Z",
+    "last_seen": "2026-03-20T01:13:47.795717Z"
+  },
+  "9c3b2d459ad9": {
+    "id": "9c3b2d459ad9",
+    "name": "biz-shopping-mobile-demo",
+    "root": "/Users/Zhuanz/React/biz-shopping-mobile-demo",
+    "remote": "",
+    "created_at": "2026-03-20T01:16:30.108926Z",
+    "last_seen": "2026-03-20T01:16:35.004586Z"
+  },
+  "a82737d4d425": {
+    "id": "a82737d4d425",
+    "name": "demo-claude-worktree",
+    "root": "/Users/Zhuanz/React/biz-shopping-mobile/.claude/worktrees/demo-claude-worktree",
+    "remote": "",
+    "created_at": "2026-03-20T01:23:12.494277Z",
+    "last_seen": "2026-03-20T01:23:26.786748Z"
+  },
+  "11e4ec9b8b5a": {
+    "id": "11e4ec9b8b5a",
+    "name": "biz-operation-web-pc",
+    "root": "/Users/Zhuanz/React/biz-operation-web-pc",
+    "remote": "https://gitlab.yofoto.cn/h5/biz-operation-web-pc.git",
+    "created_at": "2026-03-24T02:50:53.953271Z",
+    "last_seen": "2026-03-24T06:44:12.987230Z"
   }
 }

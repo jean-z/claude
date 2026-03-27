@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "lanhu": {
+      "command": "/Users/Zhuanz/claude/lanhu-mcp/venv/bin/python",
+      "args": ["/Users/Zhuanz/claude/lanhu-mcp/lanhu_mcp_server.py"],
+      "env": {
+        "LANHU_COOKIE": "_bl_uid=1vmIakmzpmn2I7cRnsUtm3kqbLsg; tfstk=gzAjEQv4BhdPzHgxXouzVz58vq16h4lEfP_9-FF4WsCx51tWD-uc_1J5f3K5DSSVg3s523gDuF5Y5htyAh6ioGSOfh8934lETEYcs1LsYXleB07P8h_ABtE-Wwbbk4Wvm93Wb1nEYbk9105P6EralKLJygb1W-BvXTIRqN2O6iBT28Qd2GC9XiFR2NbbHNCTHz35SgIO61K9y4_N2GCO6hL-sTUC5xsDl275wrliGBTAV5F9MjXcAWIlrZd57tsdzgNOlQ_fhML29qnBCN9pOtxK4-SvdpxC8nl8GHTvcpBpMun5sUJBfwOxJJs6mUdVeI3aKafMHpCv1DZvrntDipLx48_WeER5UBnQ1tvJmpX6_0lhgp8es9dxGkjPKNtCMLi8GHIP_WSC0Vw_P9V1PMuSPR2MXW27XZ4cbiXArZ6rP4ZvItQlPZ3SPoEcHabfy4g7Ddf..; user_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE4MDEwMTU0NjUsImlkIjoiMDUyZmY0MmItODY1MC00NmFkLWIzYTktODY0N2M2ZGU3YTg2In0.jhQHiCdVzkoI4oqsd9fjUAcUQGBJerinrK15NK99n8U; aliyungf_tc=38c39028e6e2ff81716d1d1e93ec590d569f0d968626add02af9c6ead354385c; acw_tc=2f6fc14317743678788555484e0092234284197c6b4a4a9df387954e567fbe; session=.eJyNkEtuG0EMRO8y6wxA9ocfXWZAstm2EEcRRjK8CHJ3t-ELeEOgFg_1iv-2Y575eN0u094e-Ws7rmO7bBbsPnUozWpgRh3NCgFzFGItUoZrSx_D0HOWDqmKXKP6AshQhLundmUQNQ8GKx4CieE1hCnUeSAFAqXLkKZlirFWZ1fYlsg9zz92y9tzuzzP96X29vflejviNeP3Dr3M2YrvQh32RjZ2r6YrNg4aySb0tUOqyVgXZqKSq01EBfHZAVfrcRzIpI21URNeEUpl1V5da4xSaml1OOjEMVp212V2_xjHvN5e8ryf1y-9LftgD50zGScSlFWgANE0IgNyQc_TIr-fW11YgnBPp9xbL7EbtrKndMM0nTlwEe-PPL-BH439_wlED4M9.HKRGbg.78UtOZczZhg_I3L1j2GSsEG7IXw; SERVERID=d1d445c508d7833458b75ffe46239380|1774367985|1774367878"
+      }
+    }
+  }
+}

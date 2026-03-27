@@ -13,6 +13,22 @@
       "repo": "anthropics/claude-plugins-official"
     },
     "installLocation": "/Users/Zhuanz/.claude/plugins/marketplaces/claude-plugins-official",
-    "lastUpdated": "2026-03-10T08:54:03.664Z"
+    "lastUpdated": "2026-03-27T01:38:49.438Z"
+  },
+  "anthropic-agent-skills": {
+    "source": {
+      "source": "github",
+      "repo": "anthropics/skills"
+    },
+    "installLocation": "/Users/Zhuanz/.claude/plugins/marketplaces/anthropic-agent-skills",
+    "lastUpdated": "2026-03-24T14:22:35.249Z"
+  },
+  "claude-hud": {
+    "source": {
+      "source": "github",
+      "repo": "jarrodwatts/claude-hud"
+    },
+    "installLocation": "/Users/Zhuanz/.claude/plugins/marketplaces/claude-hud",
+    "lastUpdated": "2026-03-24T15:39:16.341Z"
   }
 }

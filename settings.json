@@ -9,10 +9,18 @@
     "ANTHROPIC_DISABLE_TELEMETRY": "1"
   },
   "includeCoAuthoredBy": false,
-  "language": "中文",
-  "alwaysThinkingEnabled": true,
-  "skipDangerousModePermissionPrompt": true,
   "hooks": {
+    "SessionStart": [
+      {
+        "matcher": "*",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "/Users/Zhuanz/.nvm/versions/node/v22.22.0/bin/cc-connect daemon status >/dev/null 2>&1 || /Users/Zhuanz/.nvm/versions/node/v22.22.0/bin/cc-connect daemon start >/dev/null 2>&1"
+          }
+        ]
+      }
+    ],
     "PreToolUse": [
       {
         "matcher": "*",
@@ -35,5 +43,30 @@
         ]
       }
     ]
-  }
+  },
+  "statusLine": {
+    "type": "command",
+    "command": "bash -c 'plugin_dir=$(ls -d \"${CLAUDE_CONFIG_DIR:-$HOME/.claude}\"/plugins/cache/claude-hud/claude-hud/*/ 2>/dev/null | awk -F/ '\"'\"'{ print $(NF-1) \"\\t\" $(0) }'\"'\"' | sort -t. -k1,1n -k2,2n -k3,3n | tail -1 | cut -f2-); exec \"/Users/Zhuanz/.nvm/versions/node/v22.22.0/bin/node\" \"${plugin_dir}dist/index.js\"'"
+  },
+  "enabledPlugins": {
+    "claude-hud@claude-hud": true,
+    "superpowers@claude-plugins-official": true
+  },
+  "extraKnownMarketplaces": {
+    "anthropic-agent-skills": {
+      "source": {
+        "source": "github",
+        "repo": "anthropics/skills"
+      }
+    },
+    "claude-hud": {
+      "source": {
+        "source": "github",
+        "repo": "jarrodwatts/claude-hud"
+      }
+    }
+  },
+  "language": "中文",
+  "alwaysThinkingEnabled": true,
+  "skipDangerousModePermissionPrompt": true
 }

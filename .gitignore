@@ -14,3 +14,14 @@ tasks/
 projects/
 ide/
 backups/
+plugins/installed/everything-claude-code
+plugins/marketplaces/claude-plugins-official
+plugins/marketplaces/everything-claude-code
+
+# 嵌套的 git 仓库
+plugins/marketplaces/anthropic-agent-skills
+plugins/marketplaces/claude-hud
+skills/humanizer
+plugins/claude-hud/transcript-cache/
+paste-cache/
+sessions/
