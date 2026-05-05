@@ -5,7 +5,7 @@
     "root": "/Users/Zhuanz/React/biz-shop-taro",
     "remote": "https://gitlab.yofoto.cn/h5/biz-shop-taro.git",
     "created_at": "2026-03-17T00:55:52.701539Z",
-    "last_seen": "2026-03-19T16:17:09.905848Z"
+    "last_seen": "2026-04-30T08:39:14.005316Z"
   },
   "1ba853475ea9": {
     "id": "1ba853475ea9",
@@ -13,7 +13,7 @@
     "root": "/Users/Zhuanz/React/biz-micro-services-ui",
     "remote": "https://gitlab.yofoto.cn/h5/biz-micro-services-ui.git",
     "created_at": "2026-03-17T02:36:21.143558Z",
-    "last_seen": "2026-04-01T02:24:04.019164Z"
+    "last_seen": "2026-04-30T09:26:43.697480Z"
   },
   "1cfea8d13f1f": {
     "id": "1cfea8d13f1f",
@@ -21,7 +21,7 @@
     "root": "/Users/Zhuanz/React/biz-b2c-web-h5",
     "remote": "https://gitlab.yofoto.cn/h5/biz-b2c-web-h5.git",
     "created_at": "2026-03-17T06:26:27.809136Z",
-    "last_seen": "2026-03-23T09:05:07.020853Z"
+    "last_seen": "2026-05-05T14:23:43.986512Z"
   },
   "821faa20e74a": {
     "id": "821faa20e74a",
@@ -29,7 +29,7 @@
     "root": "/Users/Zhuanz/React/biz-shopping-mobile",
     "remote": "https://gitlab.yofoto.cn/h5/biz-shopping-mobile.git",
     "created_at": "2026-03-19T02:53:30.127775Z",
-    "last_seen": "2026-03-27T02:00:12.919838Z"
+    "last_seen": "2026-04-30T03:11:47.405098Z"
   },
   "d332cb8f4fa1": {
     "id": "d332cb8f4fa1",
@@ -37,7 +37,7 @@
     "root": "/Users/Zhuanz/React",
     "remote": "",
     "created_at": "2026-03-19T16:19:28.141244Z",
-    "last_seen": "2026-03-20T11:40:15.913723Z"
+    "last_seen": "2026-04-28T01:37:34.730487Z"
   },
   "cdf953fc2937": {
     "id": "cdf953fc2937",
@@ -69,6 +69,70 @@
     "root": "/Users/Zhuanz/React/biz-operation-web-pc",
     "remote": "https://gitlab.yofoto.cn/h5/biz-operation-web-pc.git",
     "created_at": "2026-03-24T02:50:53.953271Z",
-    "last_seen": "2026-03-24T06:44:12.987230Z"
+    "last_seen": "2026-04-29T06:18:00.968118Z"
+  },
+  "e9299b9c7ba8": {
+    "id": "e9299b9c7ba8",
+    "name": "biz-b2c-web-pc",
+    "root": "/Users/Zhuanz/React/biz-b2c-web-pc",
+    "remote": "https://gitlab.yofoto.cn/h5/biz-b2c-web-pc.git",
+    "created_at": "2026-04-01T03:06:33.323606Z",
+    "last_seen": "2026-04-29T00:35:50.228335Z"
+  },
+  "a797f86d9a70": {
+    "id": "a797f86d9a70",
+    "name": "biz-shop-taro-fatloss",
+    "root": "/Users/Zhuanz/React/biz-shop-taro-fatloss",
+    "remote": "https://gitlab.yofoto.cn/h5/biz-shop-taro-fatloss.git",
+    "created_at": "2026-04-02T05:49:28.008356Z",
+    "last_seen": "2026-04-02T06:25:07.067603Z"
+  },
+  "d61116603fde": {
+    "id": "d61116603fde",
+    "name": "biz-shop-taro-recommend",
+    "root": "/Users/Zhuanz/React/biz-shop-taro-recommend",
+    "remote": "https://gitlab.yofoto.cn/h5/biz-shop-taro-recommend.git",
+    "created_at": "2026-04-02T06:51:01.303812Z",
+    "last_seen": "2026-04-11T08:56:25.301642Z"
+  },
+  "011e2e38887f": {
+    "id": "011e2e38887f",
+    "name": "Zhuanz",
+    "root": "/Users/Zhuanz",
+    "remote": "",
+    "created_at": "2026-04-06T15:26:57.690764Z",
+    "last_seen": "2026-04-10T08:19:30.016516Z"
+  },
+  "2797a808bb2f": {
+    "id": "2797a808bb2f",
+    "name": "biz-yofogo",
+    "root": "/Users/Zhuanz/React/biz-yofogo",
+    "remote": "https://gitlab.yofoto.cn/h5/biz-yofogo.git",
+    "created_at": "2026-04-11T08:56:24.583441Z",
+    "last_seen": "2026-04-11T08:56:24.798725Z"
+  },
+  "ab0ffbdf5975": {
+    "id": "ab0ffbdf5975",
+    "name": "androidusbcamera",
+    "root": "/Users/Zhuanz/React/androidusbcamera",
+    "remote": "https://gitlab.yofoto.cn/h5/androidusbcamera.git",
+    "created_at": "2026-04-11T08:56:25.527099Z",
+    "last_seen": "2026-04-11T08:56:25.732039Z"
+  },
+  "774dbdc771b3": {
+    "id": "774dbdc771b3",
+    "name": "code-push",
+    "root": "/Users/Zhuanz/React/code-push",
+    "remote": "https://gitlab.yofoto.cn/h5/code-push.git",
+    "created_at": "2026-04-11T08:56:25.959325Z",
+    "last_seen": "2026-04-11T08:57:19.785369Z"
+  },
+  "3cfed65214d6": {
+    "id": "3cfed65214d6",
+    "name": "biz-shop-taro-sxy",
+    "root": "/Users/Zhuanz/React/biz-shop-taro-sxy",
+    "remote": "https://gitlab.yofoto.cn/h5/biz-shop-taro-sxy.git",
+    "created_at": "2026-04-17T02:28:08.988057Z",
+    "last_seen": "2026-04-17T06:08:40.200241Z"
   }
 }

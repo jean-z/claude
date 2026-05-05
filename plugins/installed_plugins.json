@@ -23,10 +23,10 @@
       {
         "scope": "local",
         "projectPath": "/Users/Zhuanz/React/biz-shopping-mobile",
-        "installPath": "/Users/Zhuanz/.claude/plugins/cache/claude-plugins-official/context7/72b975468071",
-        "version": "72b975468071",
+        "installPath": "/Users/Zhuanz/.claude/plugins/cache/claude-plugins-official/context7/e73e9a6257ac",
+        "version": "e73e9a6257ac",
         "installedAt": "2026-02-13T03:25:30.447Z",
-        "lastUpdated": "2026-03-27T01:38:49.460Z",
+        "lastUpdated": "2026-04-29T14:29:49.182Z",
         "gitCommitSha": "2cd88e7947b7382e045666abee790c7f55f669f3"
       }
     ],
@@ -43,10 +43,10 @@
     "superpowers@claude-plugins-official": [
       {
         "scope": "user",
-        "installPath": "/Users/Zhuanz/.claude/plugins/cache/claude-plugins-official/superpowers/5.0.6",
-        "version": "5.0.6",
+        "installPath": "/Users/Zhuanz/.claude/plugins/cache/claude-plugins-official/superpowers/5.1.0",
+        "version": "5.1.0",
         "installedAt": "2026-03-24T15:42:12.699Z",
-        "lastUpdated": "2026-03-27T01:38:55.685Z",
+        "lastUpdated": "2026-05-05T14:22:50.237Z",
         "gitCommitSha": "8ea39819eed74fe2a0338e71789f06b30e953041"
       }
     ]

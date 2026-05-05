@@ -6,7 +6,8 @@
     "ANTHROPIC_DEFAULT_OPUS_MODEL": "glm-5.1",
     "ANTHROPIC_DEFAULT_SONNET_MODEL": "glm-5.1",
     "ANTHROPIC_MODEL": "glm-5.1",
-    "ANTHROPIC_DISABLE_TELEMETRY": "1"
+    "ANTHROPIC_DISABLE_TELEMETRY": "1",
+    "CHROME_PATH": "/Applications/Google Chrome Dev.app/Contents/MacOS/Google Chrome Dev"
   },
   "includeCoAuthoredBy": false,
   "permissions": {
@@ -95,5 +96,6 @@
   },
   "language": "中文",
   "alwaysThinkingEnabled": true,
-  "skipDangerousModePermissionPrompt": true
+  "skipDangerousModePermissionPrompt": true,
+  "theme": "light-ansi"
 }

@@ -1,5 +1,9 @@
 {
   "mcpServers": {
+    "chrome-devtools-mcp": {
+      "command": "npx",
+      "args": ["chrome-devtools-mcp@latest", "--chrome-path", "/Applications/Google Chrome Dev.app/Contents/MacOS/Google Chrome Dev"]
+    },
     "lanhu": {
       "command": "/Users/Zhuanz/claude/lanhu-mcp/venv/bin/python",
       "args": ["/Users/Zhuanz/claude/lanhu-mcp/lanhu_mcp_server.py"],
